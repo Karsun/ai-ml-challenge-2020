@@ -1,0 +1,29 @@
+﻿Clause ID,Clause Text,Classification
+10001,The benefit and burdens of this Agreement may not be assigned or transferred by the Supplier without the Customer's written consent.,1
+10002,"COMPANY warrants that the SOFTWARE will, for a period of sixty (60) days from the date of your receipt, perform substantially in accordance with SOFTWARE written materials accompanying it. Except as just stated, The parties acknowledge that the Software is provided ""AS IS,"" and may not be functional on every machine or in every environment. Except as set forth herein, COMPANY DISCLAIMS ALL WARRANTIES RELATING TO THE SOFTWARE, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AGAINST INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.",1
+10003,"Customer indemnities: the customer commits to defend or indemnify the vendor for various things, e.g., in connection with claimed infringement of intellectual property rights.",1
+10004,"Contractor indemnities: the contractor commits to ""defend"" the Government in various types of lawsuits, typically IP related, on condition that the Government gives the contractor ""sole control"" over the conduct of such proceedings",1
+10005,"Automatic renewals: term-limited products or services (e.g., term licenses for software, or maintenance) renew automatically, and renewal charges fall due automatically, unless the customer takes action to opt out or terminate",1
+10006,The licensee or customer is an individual,1
+10007,The contractor is part of a corporate group,1
+10008,"Contract formation via using, downloading, clicking ""I Agree,"" etc. (commonly known as shrinkwrap/clickwrap/browsewrap), or a provision purporting to bind the Government to a set of terms posted at a specified URL",1
+10009,"unilateral right to raise prices or to change from awarded contract prices to ""then-current"" commercial catalog prices",1
+10010,travel costs as incurred,1
+10011,various surcharges,1
+10012,various penalties,1
+10013,penalities for late payment (including interest),1
+10014,penalities for late shipment of defective part for repair,1
+10015,penalities for hiring a contractor's employee,1
+10016,liquidated damages,1
+10017,audit costs,1
+10018,lapsed maintenance reinstatement fees,1
+10019,Government payment of contractor's attorney fees,1
+10020,Taxes,1
+10021,"Third-party terms: where the vendor's offering includes components provided by other manufacturers, or where the contractor is a dealer or reseller of other manufacturers' products, the agreement will often say that the customer agrees to be bound by the terms and conditions established by such manufacturer, without an opportunity for the customer to object to or negotiate the terms",1
+10022,"The contractor or reseller is not a party to the third-party terms and disclaims all responsibility, while the manufacturer may become a third-party beneficiary of the contract",1
+10023,"Contract to be governed by state/foreign law, litigated in state/foreign courts, or arbitrated; contractual limitation on actions",1
+10024,"Equitable remedies, injunctions",1
+10025,Unilateral termination by contractor for breach,1
+10026,"Unilateral modification: the vendor reserves the right to unilaterally change the license terms or terms of service, with or without notice to the customer",1
+10027,Assignment by licensor,1
+10028,Ownership of derivative works,1

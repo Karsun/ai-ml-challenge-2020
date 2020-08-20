@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-eula-classifier-dev-144438-authRole",
+            "UnauthRoleArn": "arn:aws:iam::695620255925:role/amplify-eula-classifier-dev-144438-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::695620255925:role/amplify-eula-classifier-dev-144438-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-eula-classifier-dev-144438-deployment",
+            "UnauthRoleName": "amplify-eula-classifier-dev-144438-unauthRole",
+            "StackName": "amplify-eula-classifier-dev-144438",
+            "StackId": "arn:aws:cloudformation:us-east-1:695620255925:stack/amplify-eula-classifier-dev-144438/b6f5b8f0-e0b9-11ea-ab45-0a39c55408a9",
+            "AmplifyAppId": "d2acomneqqx2i4"
+        },
+        "categories": {
+            "auth": {
+                "eulaclassifier8ce8ac24": {}
+            }
+        }
+    }
+}

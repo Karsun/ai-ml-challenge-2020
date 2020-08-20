@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "storage": {
+      "eulaclass": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
